@@ -1,6 +1,6 @@
 # Console Fridge Temperature Monitor
 
-Monitors the temperature and sensor battery voltage for my home sensors project, seen at http://homesensors.alexwarrior.cc and displays it in a terminal as text based graphical display.
+Monitors the temperature and sensor battery voltage for my home sensors project, seen at http://homesensors.alexwarrior.cc and displays it in a terminal as text based graphical display. The sensor values come from an MQTT broker.
 
 ![Screenshot](screenshot.jpg)
 
